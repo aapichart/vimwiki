@@ -1,0 +1,23 @@
+= This is a knowledge note =
+== Linux tools ==
+    * [[nix package]] 
+    * [[stow]]
+    * [[zsh]]
+    * [[lf]]
+    * [[Conky]]
+    * [[Terminator]]
+== IDE Toolm ==
+    * nvim
+    * fzf
+    * ripgrep
+== NVIM Plugins ==
+    * [[Packer]]
+    * [[Plug]]
+    * [[vimwiki]]
+    * [[vim-surround]]
+    * [[vim-gitgutter]]
+    * [[lsp]]
+    * [[Ultrasnip]]
+    
+
+
