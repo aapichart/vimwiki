@@ -1,0 +1,2 @@
+= Gitsigns = 
+    * It show what happen and preview as a sign for git

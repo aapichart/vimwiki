@@ -1,0 +1,2 @@
+= Ultrasnip = 
+    * The snippets will be saved at xxx.snipet (~/.local/share/nvim/site/packer/start/vim-snippets/Ultisnips/xxx.snippets)

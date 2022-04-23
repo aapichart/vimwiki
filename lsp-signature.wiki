@@ -1,0 +1,2 @@
+= Lsp-Signature =
+    * Signature hint for developer, each argument will be recommended

@@ -16,8 +16,16 @@
     * [[vimwiki]]
     * [[vim-surround]]
     * [[vim-gitgutter]]
+    * [[vim-slime]]
     * [[lsp]]
-    * [[Ultrasnip]]
-    
-
+    * [[Ultisnip]]
+    * [[Nvim-Treesitter]]
+    * [[Telescope]]
+    * [[nvim-comp]]
+    * [[lsp-signature]]
+    * [[gitsigns]]
+    * [[Nvim-Tree]]
+    * [[Nvim-Toggleterm]]
+== Python Development on Nix ==a
+    * [[ http://github.com/FRidh/python-on-nix/blob/master/tutorial.md | Python on Nix ]]
 
